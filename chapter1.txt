@@ -1,0 +1,2 @@
+To open text file in text editor using hyper terminal in windows 10 
+$ start filename.text
